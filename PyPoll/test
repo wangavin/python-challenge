@@ -1,0 +1,9 @@
+your_number = 0.42365
+# percentage = "%.2f"% x (your_number)
+percentage = "{:.3%}".format(your_number)
+print (percentage)
+
+# data_list = [1.1111, 2.1134, 2.444444, 9.00022]
+
+# float_values = ["%.2f" % x for x in data_list]
+# print(float_values)
