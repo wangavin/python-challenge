@@ -14,3 +14,9 @@ Set Variable for Assignment request to get answer and set support me for Calcula
 set loop in the list and using "+=" to support looking row location.
 using "append" to support my list
 use serach from google symtax to editing in my formula to get Pybank and Pypoll answer.
+
+![Screen Shot 2023-03-24 at 3 18 48 PM](https://user-images.githubusercontent.com/119981450/227619840-e7f411d6-2df2-4023-934f-224cc4b1adbb.png)
+
+
+
+
